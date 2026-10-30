@@ -40,3 +40,6 @@ mcp.json
 build-log.txt
 mcp_test_output.txt
 audit_report.csv
+
+backend/search_api/*.bak
+backend/search_api/*.backup
