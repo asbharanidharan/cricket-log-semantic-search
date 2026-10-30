@@ -1,0 +1,42 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+venv/
+env/
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+
+# IDE
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Generated files
+.pytest_cache/
+.mypy_cache/
+.coverage
+htmlcov/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Local databases and model files
+*.sqlite3
+*.db
+*.pkl
+*.pt
+*.pth
+
+# Local MCP configuration and generated outputs
+mcp.json
+build-log.txt
+mcp_test_output.txt
+audit_report.csv

@@ -1,0 +1,14 @@
+
+Django
+djangorestframework
+qdrant-client
+sentence-transformers
+ollama
+pymongo
+mcp<2
+httpx
+dash
+plotly
+dash-bootstrap-components
+pandas
+requests
